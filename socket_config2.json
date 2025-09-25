@@ -1,0 +1,8 @@
+{
+  "port": 443,
+  "host": "casino-test.onrender.com",
+  "prefix": "https://",
+  "host_ws": "casino-test.onrender.com",
+  "prefix_ws": "wss://",
+  "ssl": true
+}

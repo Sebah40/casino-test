@@ -2,9 +2,9 @@
   "name": "casino-websocket-server",
   "version": "1.0.0",
   "description": "Unified WebSocket server for casino games",
-  "main": "unified-server.js",
+  "main": "Slots.js",
   "scripts": {
-    "start": "node unified-server.js",
+    "start": "node Slots.js",
     "start-slots": "node Slots.js",
     "start-server": "node Server.js",
     "start-arcade": "node Arcade.js"
