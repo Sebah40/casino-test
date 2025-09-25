@@ -1,0 +1,8 @@
+{
+  "port": "443/slots",
+  "host": "argentaplay.com",
+  "prefix": "https://",
+  "host_ws": "argentaplay.com",
+  "prefix_ws": "wss://",
+  "ssl": true
+}
